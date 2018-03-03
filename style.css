@@ -1,0 +1,21 @@
+.container {
+    margin-top: 20px;
+}
+.title {
+    font-weight: 600;
+}
+.row:not(.buttons) [class^="col"] {
+    background-color: #ebebeb;
+    border: 1px solid #333;
+}
+[class^="col"] {
+    padding: 10px 5px;
+}
+[class^="col"]:first-child {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+[class^="col"]:last-child {
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+}

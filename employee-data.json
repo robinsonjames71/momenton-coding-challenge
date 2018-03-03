@@ -1,0 +1,34 @@
+{
+	"employees": [
+		{
+			"name": "Alan",
+			"id": 100,
+			"managerid": 150
+		},
+		{
+			"name": "Martin",
+			"id": 220,
+			"managerid": 100
+		},
+		{
+			"name": "Jamie",
+			"id": 150,
+			"managerid": null
+		},
+		{
+			"name": "Alex",
+			"id": 275,
+			"managerid": 100
+		},
+		{
+			"name": "Steve",
+			"id": 400,
+			"managerid": 150
+		},
+		{
+			"name": "David",
+			"id": 190,
+			"managerid": 400
+		}
+	]
+}
